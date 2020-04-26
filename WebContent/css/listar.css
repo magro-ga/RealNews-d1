@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.card-columns {
+	box-sizing: border-box;
+	border-radius: 15px;
+	padding: 16px;
+}
+
+h2, hr {
+	margin: 13px 0;
+}
+
+h2 {
+	text-align: center;
+}

@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+section {
+	width: 80%;
+	box-sizing: border-box;
+	margin-top: 12px;
+	padding: 24px;
+    border-radius: 15px;
+	background-color: #fbfbfb;
+	word-wrap: break-word;
+}
+
+section h2, section p {
+	border-radius: 15px;
+	word-wrap: break-word;
+	white-space: pre-wrap;
+	text-align: justify;
+}
+
+.card-header {
+	background-color: #F0F8FF;
+}
